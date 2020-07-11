@@ -17,7 +17,7 @@
 - INU (2020) [@inudevs](https://github.com/inudevs)
 - DIMIGOIN (2020) [@dimigoin](https://github.com/dimigoin)
 
-### 📒 CONTACT
+### 📒 Contact
 
 - Phone : [+821066626345](tel://+821066626345)
 - Email : lee@seungmin.io
