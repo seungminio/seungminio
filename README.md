@@ -19,7 +19,7 @@ Hello 👋 I am Seungmin Lee, attending the web programming department at Korea 
 
 ### CONTACT
 
-- Phone : +821066626345
+- Phone : [+821066626345](tel://+821066626345)
 - Email : lee@seungmin.io
-- Facebook : https://fb.me/smsmsmsmin
-- Instagram : https://instagram.com/smsmsmsmin
+- Facebook : [@smsmsmsmin](https://fb.me/smsmsmsmin)
+- Instagram :[@smsmsmsmin](https://instagram.com/smsmsmsmin)
