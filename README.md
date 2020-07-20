@@ -1,5 +1,9 @@
 ### Lee Seungmin --- @smsmsmsmin
 
+![Typed-with-TypeScript](https://camo.githubusercontent.com/21132e0838961fbecb75077042aa9b15bc0bf6f9/68747470733a2f2f62616467656e2e6e65742f62616467652f4275696c74253230576974682f547970655363726970742f626c7565)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmsmsmsmin%2Fsmsmsmsmin)](https://hits.seeyoufarm.com)
+
+
 👋 Hello! I am Seungmin Lee, attending the web programming department at Korea Digital Media High School. I am thinking about how to develop programs that have a good influence on others and how to socially.
 
 ### 🚀 Tech Stack
