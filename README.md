@@ -5,7 +5,7 @@
 ![github-stats](https://github-readme-stats.vercel.app/api?username=smsmsmsmin&count_private=true&theme=algolia)
 
 <div align="center" style="text-align:center">
-  🧑‍💻 Front-end developer at <a href="pointing.life" target="_blank">@pointing.life</a> <br />
+  🧑‍💻 Front-end developer at <a href="https://pointing.life" target="_blank">@pointing.life</a> <br />
   🎓 Studying at <strong>Korea Digital Media High School</strong> <br />
   ❤️ I'm in love with <strong>Typescript</strong>, <strong>React</strong> <br />
   👀 interested in <strong>SwiftUI</strong>
