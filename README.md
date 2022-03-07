@@ -10,4 +10,4 @@
   🎓 Drop out of <strong>Korea Digital Media High School</strong> <br />
   ❤️ I'm in love with <strong>Typescript</strong>, <strong>React</strong> <br />
   👀 interested in <strong>SwiftUI</strong>
-</div>;
+</div>
